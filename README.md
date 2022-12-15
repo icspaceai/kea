@@ -1,2 +1,2 @@
 # kea
-icspace kea research platform
+kea is an open source robotics research platform.
