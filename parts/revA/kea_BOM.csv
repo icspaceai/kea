@@ -1,9 +1,9 @@
 ID,Name,Designator,Footprint,Quantity
-"1","Adafruit BMP280 Barometric Pressure + Temperature Sensor",	"BMP",	"BMP280FT",	"1"
+"1","Adafruit BMP280 Barometric Pressure + Temperature Sensor","BMP","BMP280FT","1"
 "2","BUZZER","BUZZER1","BUZ-TH_BD12.0-P6.00-D0.9-RD","1"
 "3","GY-521MPU6050","IMU","MPU6050","1"
 "4","Header-Male-2.54_2x5","PWM,TELEMETRY","HDR-TH_10P-P2.54-V-M-R2-C5-S2.54","2"
 "5","150Ω","R1,R2,R3","R0603","3"
 "6","5074RGB","STATUS","LED-SMD_6P-L5.0-W5.0-LS7.4_5074RGB","1"
 "7","ESP32-38Pin","U1","ESP32-38PIN-DEVBOARD","1"
-"8","4PINS 2.54","UART0,UART2",	"4 PINS 2.54",	"2"
+"8","4PINS 2.54","UART0,UART2","4 PINS 2.54","2"
